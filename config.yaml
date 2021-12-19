@@ -2,6 +2,7 @@ baseURL: 'https://thisguy.codes/'
 languageCode: 'en-us'
 title: 'ThisGuyCodes'
 theme: 'PaperMod'
+googleAnalytics: 'G-8Q7MDE6G93'
 
 params:
   env: production
