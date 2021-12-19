@@ -1,0 +1,35 @@
+baseURL: 'https://thisguy.codes/'
+languageCode: 'en-us'
+title: 'ThisGuyCodes'
+theme: 'PaperMod'
+
+params:
+  env: production
+  author: 'Travis Johnson'
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: true
+  showtoc: true
+  analytics.google.SiteVerificationTag: ''
+  profileMode:
+    enabled: true
+    title: 'ThisGuyCodes'
+    buttons:
+      - name: 'Home'
+        url: '/'
+      - name: 'About'
+        url: '/about'
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/thisguycodes'
+    - name: telegram
+      url: 'https://t.me/ThisGuyCodes'
+    - name: linkedin
+      url: 'https://linkedin.com/in/thisguycodes'
+    - name: github
+      url: 'https://github.com/thisguycodes'
+    - name: email
+      url: 'mailto://travis@thisguy.codes'
+    - name: keybase
+      url: 'https://keybase.io/thisguycodes'
