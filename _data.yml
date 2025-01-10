@@ -1,0 +1,16 @@
+lang: en
+
+home:
+  welcome: Yea, probably
+
+menu_links: []
+extra_head: []
+
+# Metas plugin https://lume.land/plugins/metas/#description
+metas:
+  site: ThisGuy Codes
+  description: A blog about this guy. He codes.
+  title: "=title"
+  image: "=image"
+  twitter: "@thisguycodes"
+  lang: en
