@@ -2,11 +2,10 @@
 title: Personal Sites
 date:
 author: Travis Johnson
-draft: true
-footnotes:
-  - test
 tags:
   - yak shaving
 ---
 
-Yup
+nope[^1]
+
+[^1]: https://rework.withgoogle.com/print/guides/5721312655835136/

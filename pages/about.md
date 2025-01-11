@@ -9,7 +9,7 @@ I love what I do, and I love enabling the people around me to love what they do 
 
 I'm a career SRE, taking the "Linux System Administrator adds more code to their work" approach I expanded my scope to the application level; stopping just short of User Interfaces (design work still confuses me... except maybe Terminal Interfaces). As I did this I thought more and more broadly about how to ensure products are built reliably; this led to a stronger and stronger focus on education, and facilitating communication within, and between, engineering teams.
 
-Now, almost my entire focus is on psychological safety; creating an environment that helps people feel comfortable taking risks. For a better explanation I highly recommend reading about Project Aristotle[^1] and I'll quote one thing from that page:
+Now, almost my entire focus is on psychological safety; creating an environment that helps people feel comfortable taking risks. For a better explanation I highly recommend reading about Project Aristotle[^aristotle] and I'll quote one thing from that page:
 
 > Psychological safety refers to an individual’s perception of the consequences of taking an interpersonal risk
 
@@ -26,6 +26,4 @@ Those seem like the relevant parts:
 - [Twitter](https://twitter.com/thisguycodes)
 - [Bluesky](https://thisguycodes.bsky.social)
 
-[^1]: https://rework.withgoogle.com/print/guides/5721312655835136/
-
-[Project Aristotle](https://rework.withgoogle.com/print/guides/5721312655835136/)
+[^aristotle]: https://rework.withgoogle.com/print/guides/5721312655835136/
