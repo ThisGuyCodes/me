@@ -26,4 +26,4 @@ Those seem like the relevant parts:
 - [Twitter](https://twitter.com/thisguycodes)
 - [Bluesky](https://thisguycodes.bsky.social)
 
-[^aristotle]: https://rework.withgoogle.com/print/guides/5721312655835136/
+[^aristotle]: [rework.withgoogle.com/print/guides/5721312655835136/](https://rework.withgoogle.com/print/guides/5721312655835136/)
