@@ -9,15 +9,29 @@ tags:
 
 For three years in a row I've packed myself into my car[^car] and taken off accross the US to attend various conferences / conventions[^cons] over several months. It's pretty easy to call this a road trip, but there's an important caveat to it; I am in fact living in my car for the entire duration.
 
+[^car]: A 2022 Tesla Model Y. [Camp mode](https://www.tesla.com/ownersmanual/modely/en_us/GUID-4F3599A1-20D9-4A49-B4A0-5261F957C096.html#CONCEPT_RZC_VJY_RRB) lets the climate run all night while still staying locked.
+
+[^cons]: Dedicated page pending.
+
 <!-- more -->
 
 I don't take time off work for this, I'm quite privileged to be able to work fully remote. I have Starlink[^starlink] for internet, shower at Planet Fitness[^pf], sleep on an inflatable mattress with the seats folded flat (I have a camping kit[^fruble] which gives me more storage), I even have an induction stove that I plug into a power bank to cook with (which is in-turn plugged into the car's low voltage system to recharge itself).
+
+[^pf]: The Black Card membership is $25 / month, and works at any location; you can even bring in a guest!
+
+[^starlink]: I use a [Starlink Mini](https://www.starlink.com/specifications?spec=5) which is semi-permanently mounted to the underside of my cars glass roof.
+
+[^fruble]: [This one](https://www.fruble.co/product-page/tesla-camper-kit), but I have the slightly-worse kickstarter version.
 
 Please do not mistake the use of multiple Musk technologies as an endorsement of the individual.
 
 I initially did this trip to get some emotional (and I suppose physical) disatance from personal issues I was having at the time. But I loved it so much that I've done it every year since (and I plan to continue!). I've met so many people, and seeing the country like this is such a great experience. Not to mention sleeping in a parking garage is radically cheaper than getting a hotel for a conference, heh...
 
 I've repeatedly heard from people that being alone for extended periods of time would drive them crazy; I don't have this problem, in fact as I've gotten older I increasingly have found that time to myself is incredibly important to me. This, combined with a lifelong dream of "a house on wheels"[^quote], has made this lifestyle a really good fit for me. This is so much the case that I've started to consider living in my car full-time; well, in _a vehicle_, main contender right now is The Grounded[^grounded].
+
+[^quote]: A quote from a story of me at age six; I told my mom "I [would] buy [her] a house on wheels when I [grew] up".
+
+[^grounded]: [Grounded](https://www.groundedrvs.com/) is a fully electric RV built on GM's electric delivery van platform.
 
 The barrier to jumping into that lifestyle is two fold right now: financial, and... how do I put it... "stuff".
 
@@ -32,17 +46,3 @@ I have ADD, and a normal part of that is jumping around between hobbies, committ
 Living in a vehicle means _way_ less space. So I have to get rid of a ton of stuff. I actually enjoy this constraint, and living away from all my stuff for significant chunks of the year, several years in a row, has made recognizing what I _actually_ use and need much easier (though not _easy_).
 
 I hope to use this objective as a forcing function to dramatically slim down my life; regardless of if the grand plan actually moves forward or not.
-
-[^car]: A 2022 Tesla Model Y. [Camp mode](https://www.tesla.com/ownersmanual/modely/en_us/GUID-4F3599A1-20D9-4A49-B4A0-5261F957C096.html#CONCEPT_RZC_VJY_RRB) lets the climate run all night while still staying locked.
-
-[^cons]: Dedicated page pending.
-
-[^pf]: The Black Card membership is $25 / month, and works at any location; you can even bring in a guest!
-
-[^starlink]: I use a [Starlink Mini](https://www.starlink.com/specifications?spec=5) which is semi-permanently mounted to the underside of my cars glass roof.
-
-[^fruble]: [This one](https://www.fruble.co/product-page/tesla-camper-kit), but I have the slightly-worse kickstarter version.
-
-[^quote]: A quote from a story of me at age six; I told my mom "I [would] buy [her] a house on wheels when I [grew] up".
-
-[^grounded]: [Grounded](https://www.groundedrvs.com/) is a fully electric RV built on GM's electric delivery van platform.

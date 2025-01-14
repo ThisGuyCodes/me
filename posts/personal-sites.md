@@ -8,6 +8,8 @@ tags:
 
 Every engineer[^1] that goes to make a personal site gets stuck in the same trap: what technology do I use to make it?
 
+[^1]: No? Just me?
+
 <!-- more -->
 
 The options are many. Static site generators such as:
@@ -38,5 +40,3 @@ I've used [Lume](https://lume.land/) as a static site generator, and I'm using [
 The whole thing is on [Github](https://github.com/thisguycodes/me), using Cloudflare's [Github integration](https://developers.cloudflare.com/pages/configuration/git-integration/#github) to automatically deploy on push, and I've integrated [Giscus](https://giscus.app/) for comments (uses Github discussions as the backend).
 
 Fingers crossed I can actually give this thing some momentum.
-
-[^1]: No? Just me?
