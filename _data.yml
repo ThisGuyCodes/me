@@ -3,7 +3,10 @@ lang: en
 home:
   welcome: Yea, probably
 
-menu_links: []
+menu_links:
+  - text: Source Code
+    href: https://github.com/thisguycodes/me
+    target: _blank
 extra_head: []
 
 # Metas plugin https://lume.land/plugins/metas/#description

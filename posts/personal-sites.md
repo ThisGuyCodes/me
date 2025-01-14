@@ -8,6 +8,8 @@ tags:
 
 Every engineer[^1] that goes to make a personal site gets stuck in the same trap: what technology do I use to make it?
 
+<!-- more -->
+
 The options are many. Static site generators such as:
 
 - [Jekyll](https://jekyllrb.com/)

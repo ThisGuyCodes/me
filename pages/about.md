@@ -22,6 +22,6 @@ Here are various ways you can contact me:
 
 [^PAX]: [PAX](https://www.paxsite.com/) is a series of gaming conventions held in Seattle WA, Boston MA, Philadelphia PA, ~~San Antonio TX~~, and Melbourne Australia.
 
-[^car-life]: Post(s) pending.
+[^car-life]: [Post(s) pending](/archive/car-life/).
 
 [^cons]: [Defcon](https://defcon.org/), PAX[^PAX], [Bsides LV](https://bsideslv.org/), [Blue Team Con](https://blueteamcon.com/), [All Things Open](https://allthingsopen.org/), [Thotcon](https://www.thotcon.org/), to name a few.
