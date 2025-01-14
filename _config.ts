@@ -53,7 +53,7 @@ site.data("extra_head", [
   `<link rel="preload" href="https://rsms.me/inter/font-files/InterDisplay-SemiBold.woff2?v=4.1" as="font">`,
   `<link rel="preload" href="/pagefind/pagefind-ui.css" as="style">`,
   `<link rel="preload" href="/pagefind/pagefind-ui.js" as="script">`,
-  `<link rel="prefetch" href="https://giscus.app/client.js" as="script">`,
+  `<link rel="preconnect" href="https://giscus.app/client.js" as="script">`,
 ]);
 
 const giscusScript = (document: Document) => {
@@ -91,7 +91,13 @@ const giscusScript = (document: Document) => {
 
   const aside = document.createElement("aside");
   aside.classList.add("giscus");
-  return [aside, script];
+
+  const link = document.createElement("link");
+  link.rel = "preload";
+  link.as = "script";
+  link.href = "https://giscus.app/client.js";
+
+  return [aside, link, script] as const;
 };
 
 site.process([".md"], (pages) => {
