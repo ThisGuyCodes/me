@@ -1,8 +1,7 @@
 ---
 title: Philosophy
 menu:
-  visible: true
-  order: 2
+  visible: false
 ---
 
 I love what I do, and I love enabling the people around me to love what they do too. I'm also pretty good at it but I don't think that's as important.

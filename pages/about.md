@@ -2,7 +2,7 @@
 title: About
 menu:
   visible: true
-  order: 3
+  order: 2
 ---
 
 I'm Travis Johnson, a Site Reliability Engineer with a focus on [psychological safety](/pages/philosophy/) and education. I've been in the industry for over a decade, and I've worked in a variety of roles from Linux Systems Administrator, to Head of a 20+ person IT Department.
