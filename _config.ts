@@ -43,6 +43,17 @@ site.use(codeHighlight({
 site.copy(hljsPath);
 site.data("extra_head", [
   `<link rel="stylesheet" href=${JSON.stringify(hljsPath)}>`,
+  `<link rel="preload" href=${JSON.stringify(hljsPath)} as="style">`,
+  `<link rel="preload" href="/styles.css" as="style">`,
+  `<link rel="preload" href="/js/main.js" as="script">`,
+  `<link rel="preload" href="/js/comments.js" as="script">`,
+  `<link rel="preload" href="https://unpkg.com/@lumeland/ds@0.5.2/ds.css" as="style">`,
+  `<link rel="preload" href="https://rsms.me/inter/inter.css" as="style">`,
+  `<link rel="preload" href="https://rsms.me/inter/font-files/InterVariable.woff2?v=4.1" as="font">`,
+  `<link rel="preload" href="https://rsms.me/inter/font-files/InterDisplay-SemiBold.woff2?v=4.1" as="font">`,
+  `<link rel="preload" href="/pagefind/pagefind-ui.css" as="style">`,
+  `<link rel="preload" href="/pagefind/pagefind-ui.js" as="script">`,
+  `<link rel="prefetch" href="https://giscus.app/client.js" as="script">`,
 ]);
 
 const giscusScript = (document: Document) => {
