@@ -4,7 +4,7 @@ home:
   welcome: Yea, probably
 
 menu_links:
-  - text: Source Code
+  - text: Src
     href: https://github.com/thisguycodes/me
     target: _blank
 extra_head: []

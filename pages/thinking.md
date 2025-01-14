@@ -1,5 +1,5 @@
 ---
-title: Current Thoughts
+title: Thoughts
 menu:
   visible: true
   order: 2
